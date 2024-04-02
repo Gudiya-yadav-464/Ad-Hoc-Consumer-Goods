@@ -21,6 +21,6 @@ Run SQL Query and give insights to the team
 
 ### Linkdin Profile-- https://www.linkedin.com/in/nikita-y-481861229/
 
-### Video Presentation Link -- 
+### Video Presentation Link -- https://youtu.be/dbbeQ9ZETKc
 
-### Project link -- 
+### Project link --  https://www.linkedin.com/feed/update/urn:li:share:7180953267269492736/
