@@ -19,7 +19,7 @@ Run SQL Query and give insights to the team
 
 ## Links
 
-### Linkdin Profile-- https://www.linkedin.com/in/nikita-y-481861229/
+### Linkdin Profile-- (https://www.linkedin.com/in/gudiya-y-dataanalyst/)
 
 ### Video Presentation Link -- https://youtu.be/dbbeQ9ZETKc
 
