@@ -1,5 +1,4 @@
-# Ad-Hoc-Consumer-Goods
-
+# Consumer Goods Ad-hoc Insights Analysis
 ### Codebasics Resume Project challenge -4 
 
 ## Introduction 
@@ -23,4 +22,4 @@ Run SQL Query and give insights to the team
 
 ### Video Presentation Link -- https://www.youtube.com/embed/o-XMcEqlNgw?si=uL9X3hlH-OunjSLp
 
-### Project link --  https://www.linkedin.com/feed/update/urn:li:activity:7292474335678664704/
+### Project link -- https://www.linkedin.com/feed/update/urn:li:activity:7292474335678664704/
