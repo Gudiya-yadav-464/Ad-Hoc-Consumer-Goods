@@ -21,6 +21,6 @@ Run SQL Query and give insights to the team
 
 ### Linkdin Profile-- (https://www.linkedin.com/in/gudiya-y-dataanalyst/)
 
-### Video Presentation Link -- https://youtu.be/dbbeQ9ZETKc
+### Video Presentation Link -- https://www.youtube.com/embed/o-XMcEqlNgw?si=uL9X3hlH-OunjSLp
 
-### Project link --  https://www.linkedin.com/feed/update/urn:li:share:7180953267269492736/
+### Project link --  https://www.linkedin.com/feed/update/urn:li:activity:7292474335678664704/
